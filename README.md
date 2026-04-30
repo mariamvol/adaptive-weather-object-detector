@@ -1,4 +1,3 @@
-%%writefile README.md
 # Adaptive Weather Object Detector
 
 Inference-only demo of an adaptive object detection system for road scenes under adverse weather conditions.
