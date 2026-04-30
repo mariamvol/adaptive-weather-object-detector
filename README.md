@@ -69,6 +69,6 @@ After launch, open the Gradio link in the browser.
 
 This repository contains only the inference/demo part of the project. Training scripts, datasets and experimental notebooks are not included.
 
-License
+## License
 
 This project is released under the MIT License.
