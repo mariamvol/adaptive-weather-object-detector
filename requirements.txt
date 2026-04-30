@@ -1,0 +1,7 @@
+gradio
+ultralytics
+numpy
+pandas
+pillow
+torch
+torchvision
